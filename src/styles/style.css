@@ -1,0 +1,8 @@
+.AppBar {
+    padding: 5px;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    background-color: rgb(211, 124, 25);
+    color: white;
+}
